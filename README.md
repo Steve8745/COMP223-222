@@ -39,7 +39,7 @@ p2205092 WAN KAI HIN - translation provided / Integration testing
   Continue to explore some convenient functions of Batch in depth and integrate them into our projects in the future.
 
 # Domo
-
+https://youtu.be/TjjStG_6m-g
 
 # Environments of the software development and running
   In theory, all computers that can execute batch can run it. The operating systems currently available for testing are: win11, win10
