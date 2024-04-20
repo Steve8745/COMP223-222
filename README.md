@@ -4,7 +4,7 @@ Final Term Project：File Helper
 
 # Introduction: 
   I have had enough of the file search function of Windows. When I enter the complete file name, I can't find it. It is very inefficient and easy to crash, so our team developed File Helper.Introduction: I have had enough of the file search function of Windows. When I enter the complete file name, I can't find it. It is very inefficient and easy to crash, so our team developed File Helper.
-
+![Image text](https://raw.githubusercontent.com/Steve8745/COMP223-222/main/img.png)
 
 # Purpose of the software includes
 • Process type：Agile
